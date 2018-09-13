@@ -18,6 +18,7 @@ namespace LonelyBowling
         {
             //do not leave method unless tryparse is valid
             int score;
+            int unusedInt = 0;
             bool validInput = false;
 
             do
