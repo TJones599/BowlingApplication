@@ -64,7 +64,6 @@ namespace LonelyBowling
             sp.Load();
         }
             
-
         static void Main(string[] args)
         {
             int score = 0;
